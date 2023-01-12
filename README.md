@@ -6,8 +6,6 @@
 
 I'm an aspiring Data Scientist 📊... Tell a story 
 
-Here are some ideas to get you started:
-
 Some special things about myself:
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
