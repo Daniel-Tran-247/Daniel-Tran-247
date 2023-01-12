@@ -1,4 +1,4 @@
-<p  align="center"><img src = "Pink & Blue Futuristic Gaming Channel Youtube Intro (1).gif"></p>
+<p  align="center"><img src = "Pink & Blue Futuristic Gaming Channel Youtube Intro.gif"></p>
 
 ## 👋 Hi, I'm Daniel  
 
