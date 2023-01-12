@@ -4,14 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=robust&size=25&duration=3000&pause=1000&color=0059F7&width=435&lines=Nice+to+meet+you!;I'm+an+Aspiring+Data+Scientist+)](https://git.io/typing-svg)
 
-I'm an aspiring Data Scientist 📊... Tell a story 
+I'm an aspiring Data Scientist who love exploring the story behind numbers 📊
 
-Some special things about myself:
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+## This is me 
+🏢 ***Me at work:*** ```Enthusiastics```, ```Responsible```, ```Self-Awearness```. 
 
+⚡ ***Fun fact:*** Outside of campus, you can find me roaming around downtown Toronto 🚶 almost every weekend. In my free time, I usually practice guitar 🎸 or watch stand-up comedy shows 😂.
+ 
 ## ⚒️ My Stacks
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
