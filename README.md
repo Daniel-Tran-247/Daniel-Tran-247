@@ -18,6 +18,6 @@ I'm an aspiring Data Scientist who love exploring the story behind numbers 📊
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
 
 ## 🤝 Connect with me
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://user-images.githubusercontent.com/75436284/212133009-3bd6b322-4773-425a-8a8a-2f75f43e1539.png" aligh='left' width='30' />][linkedin]
 
 [LinkedIn]: https://www.linkedin.com/in/danieltrn/
