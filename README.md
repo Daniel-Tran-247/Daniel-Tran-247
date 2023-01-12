@@ -6,7 +6,7 @@
 
 I'm an aspiring Data Scientist who love exploring the story behind numbers 📊
 
-## This is me 
+## 🙋‍♂️ This is me 
 🏢 ***Me at work:*** ```Enthusiastics```, ```Responsible```, ```Self-Awearness```. 
 
 ⚡ ***Fun fact:*** Outside of campus, you can find me roaming around downtown Toronto 🚶 almost every weekend. In my free time, I usually practice guitar 🎸 or watch stand-up comedy shows 😂.
