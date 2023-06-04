@@ -20,4 +20,13 @@ I'm an aspiring Data Scientist who love exploring the story behind numbers 📊
 ## 🤝 Connect with me
 [<img src="https://user-images.githubusercontent.com/75436284/212133009-3bd6b322-4773-425a-8a8a-2f75f43e1539.png" aligh='left' width='30' />][linkedin]
 
-[LinkedIn]: https://www.linkedin.com/in/danieltrn/
+[LinkedIn]: https://www.linkedin.com/in/danieltrn/ 
+
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width='30' />][kaggle]
+
+[kaggle]: https://www.kaggle.com/danielggak/code
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/75436284/212133009-3bd6b322-4773-425a-8a8a-2f75f43e1539.png" aligh='left' width='30' />
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width='30' />
+</p>
