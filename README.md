@@ -24,5 +24,7 @@ I'm an aspiring Data Scientist who love exploring the story behind numbers 📊
 </span>
 
 ## 🤝 Connect with me
-[<img src="https://user-images.githubusercontent.com/75436284/212133009-3bd6b322-4773-425a-8a8a-2f75f43e1539.png" aligh='left' width='30' />](https://www.linkedin.com/in/danieltrn/) [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width='30' />](https://www.kaggle.com/danielggak/code) [<img src="https://github.com/user-attachments/assets/e414e9c1-3672-4892-871b-f2e8487e3ec4" width='30' />](https://daniel-portfolio-zeta.vercel.app/)
+[<img src="https://user-images.githubusercontent.com/75436284/212133009-3bd6b322-4773-425a-8a8a-2f75f43e1539.png" aligh='left' width='30' />](https://www.linkedin.com/in/danieltrn/) 
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width='30' />](https://www.kaggle.com/danielggak/code) 
+[<img src="https://github.com/user-attachments/assets/b7f411ea-d388-42d1-a8a0-12daf546aec8" width='32' />](https://daniel-portfolio-zeta.vercel.app/) 
 
